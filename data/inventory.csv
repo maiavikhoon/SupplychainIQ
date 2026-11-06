@@ -1,0 +1,6 @@
+product_id,product_name,category,stock,safety_stock
+P001,Laptop,Electronics,15,10
+P002,Mouse,Accessories,120,20
+P003,Keyboard,Accessories,25,15
+P004,Monitor,Electronics,40,10
+P005,Headphones,Accessories,12,10

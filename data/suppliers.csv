@@ -1,0 +1,13 @@
+supplier_id,supplier_name,product_id,price,lead_time,reliability
+S001,FastSupply,P001,52000,2,95
+S002,TechWholesale,P001,50000,5,90
+S003,GlobalElectronics,P001,48000,7,85
+S004,FastSupply,P002,300,2,95
+S005,TechWholesale,P002,280,4,90
+S006,FastSupply,P003,800,2,95
+S007,TechWholesale,P003,750,5,90
+S008,GlobalElectronics,P003,700,7,85
+S009,FastSupply,P004,12000,2,95
+S010,TechWholesale,P004,11500,5,90
+S011,FastSupply,P005,1500,2,95
+S012,TechWholesale,P005,1350,5,90
